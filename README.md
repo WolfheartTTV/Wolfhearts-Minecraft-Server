@@ -9,7 +9,8 @@ All mod keybinds have been removed in game to let players choose their own keybi
 Will progressively update modpack to be more challenging.
 
 
-[Vals Guncraft SMP-Beta.v2.zip](https://github.com/Valturna/GuncraftSMP-Server/files/13380481/Vals.Guncraft.SMP-Beta.v2.zip)
+[Vals Guncraft SMP-Beta.v2.zip](https://github.com/Valturna/GuncraftSMP-Server/files/13380945/Vals.Guncraft.SMP-Beta.v2.zip)
+
 
 
 (I do not own any mods in this modpack, no money is made from this modpack, all rights are reserved by mod authors.)
