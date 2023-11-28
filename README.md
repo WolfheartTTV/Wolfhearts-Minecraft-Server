@@ -7,9 +7,11 @@ Choose "Vals_Guncraft_SMP-Beta.zip" and then click "Open".
 It will then download all mods, configs and options.
 All mod keybinds have been removed in game to let players choose their own keybinds for each mod.
 Will progressively update modpack to be more challenging.
+Modpack will be updated inconsistantly, all client mods must be updated by client.
 
 
-[Kaijuros Guncraft SMP-Beta.v3.zip](https://github.com/Valturna/GuncraftSMP-Server/files/13468874/Kaijuros.Guncraft.SMP-Beta.v3.zip)
+
+[Kaijuros Guncraft SMP.v4-Beta.zip](https://github.com/Valturna/GuncraftSMP-Server/files/13492436/Kaijuros.Guncraft.SMP.v4-Beta.zip)
 
 
 
