@@ -10,9 +10,8 @@ Will progressively update modpack to be more challenging.
 Modpack will be updated inconsistantly, all client mods must be updated by client.
 
 
-[Kaijuros Guncraft SMP.v1-Beta.zip](https://github.com/Valturna/GuncraftSMP-Server/files/13631572/Kaijuros.Guncraft.SMP.v1-Beta.zip)
+[Kaijuros Guncraft SMP.v2-Beta.zip](https://github.com/Valturna/GuncraftSMP-Server/files/13694096/Kaijuros.Guncraft.SMP.v2-Beta.zip)
 
-https://drive.google.com/drive/u/1/folders/1Oi1Gu2JXMqCvbtzH85gjEGEEMuzEPhLc
-Download updated mod list. Delete old mod folder and place new mod folder in directory of profile.
+
 
 (I do not own any mods in this modpack, no money is made from this modpack, all rights are reserved by mod authors.)
