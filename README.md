@@ -10,10 +10,7 @@ Will progressively update modpack to be more challenging.
 Modpack will be updated inconsistantly, all client mods must be updated by client.
 
 
-[Kaijuros SMP-Beta.zip](https://github.com/Valturna/GuncraftSMP-Server/files/13805702/Kaijuros.SMP-Beta.zip)
-
-(You must allocate 8Gb of Ram or more or else the profile will crash. To do so, click Play, Installations, Edit, 
-More Options, Reset, and change the 2 to the desired amount and hit save.)
+[Kaijuros Guncraft SMP.v4-Beta.zip](https://github.com/Valturna/GuncraftSMP-Server/files/13824593/Kaijuros.Guncraft.SMP.v4-Beta.zip)
 
 
 A mostly complete update for all server/client mods. Full Release soon.
