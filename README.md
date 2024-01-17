@@ -10,7 +10,8 @@ Will progressively update modpack to be more challenging.
 Modpack will be updated inconsistantly, all client mods must be updated by client.
 
 
-[Kaijuros Guncraft SMP.v4-Beta.zip](https://github.com/Valturna/GuncraftSMP-Server/files/13837251/Kaijuros.Guncraft.SMP.v4-Beta.zip)
+[Kaijuros Guncraft SMP 1.0 (Full Release).zip](https://github.com/Valturna/GuncraftSMP-Server/files/13959876/Kaijuros.Guncraft.SMP.1.0.Full.Release.zip)
+
 
 
 A mostly complete update for all server/client mods. Full Release soon.
