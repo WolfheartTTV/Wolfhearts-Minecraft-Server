@@ -1,16 +1,16 @@
-# GuncraftSMP-Server
-A Beta package to join my Guncraft Multiplayer Server.
+# RPGSMP-Server
+A Beta package to join my RPG Multiplayer Server.
 
 To join the server, you will first need Curseforge.
 Click "Create a Profile" at the top right, then click "Import"
-Choose "Kaijuros_Guncraft_SMP-Beta.zip" and then click "Open".
+Choose "Kaijuros_RPG_SMP-Beta.zip" and then click "Open".
 It will then download all mods, configs and options.
 All mod keybinds have been removed in game to let players choose their own keybinds for each mod.
 Will progressively update modpack to be more challenging.
 Modpack will be updated inconsistantly, all client mods must be updated by client.
 
 
-[Kaijuros Guncraft-Full Release.zip](https://github.com/Valturna/GuncraftSMP-Server/files/14044519/Kaijuros.Guncraft-Full.Release.zip)
+[Kaijuros RPG-Beta.zip](https://github.com/KaijuroYT/GuncraftSMP-Server/files/14365108/Kaijuros.RPG-Beta.zip)
 
 
 A mostly complete update for all server/client mods. Full Release soon.
