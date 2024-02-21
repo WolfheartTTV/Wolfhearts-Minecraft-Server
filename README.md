@@ -10,7 +10,7 @@ Will progressively update modpack to be more challenging.
 Modpack will be updated inconsistantly, all client mods must be updated by client.
 
 
-[Kaijuros RPG-Beta.zip](https://github.com/KaijuroYT/GuncraftSMP-Server/files/14365108/Kaijuros.RPG-Beta.zip)
+[Kaijuros RPG-Full Release.zip](https://github.com/KaijuroYT/GuncraftSMP-Server/files/14365501/Kaijuros.RPG-Full.Release.zip)
 
 
 A mostly complete update for all server/client mods. Full Release soon.
