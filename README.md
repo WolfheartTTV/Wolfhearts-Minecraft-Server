@@ -10,7 +10,7 @@ Will progressively update modpack to be more challenging.
 Modpack will be updated inconsistantly, all client mods must be updated by client.
 
 
-[Kaijuros RPG-Full Release.zip](https://github.com/KaijuroYT/Kaijuros-Minecraft-Server/files/14611319/Kaijuros.RPG-Full.Release.zip)
+[Kaijuros RPG-Full Release.zip](https://github.com/KaijuroYT/Kaijuros-Minecraft-Server/files/14644760/Kaijuros.RPG-Full.Release.zip)
 
 
 A mostly complete update for all server/client mods. Full Release soon.
