@@ -1,19 +1,22 @@
 # RPGSMP-Server
-A Beta package to join my RPG Multiplayer Server.
+A Full Release package to join my RPG Multiplayer Server.
 
 To join the server, you will first need Curseforge or the mod folder for the standard launcher.
 
+For CurseForge:
 Click "Create a Profile" at the top right, then click "Import"
-
-Choose "Kaijuros_RPG_SMP-Beta.zip" and then click "Open".
-
-It will then download all mods, configs and options.
-
+Choose "Kaijuros RPG.zip" and then click "Open".
+It will then download the zip package to CurseForge.
 All mod keybinds have been removed in game to let players choose their own keybinds for each mod.
-
 Will progressively update modpack to be more challenging.
-
 Modpack will be updated inconsistantly, all client mods must be updated by client.
+
+For Standard Launcher:
+Install latest version of Forge 1.19.2 - https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html
+Run as admin and install client, click done when prompt is available.
+Download the zip file and unzip for "mods" folder.
+Press Win+r, type "%appdata%", open ".minecraft" and paste the unzipped mods folder in the ".minecraft".
+Close everything and run the launcher running the profile "Forge 1.19.2". 
 
 
 [Kaijuros RPG-1.19.2-43.3.9 (Full Release).zip](https://github.com/KaijuroYT/Kaijuros-Minecraft-Server/files/14924468/Kaijuros.RPG-1.19.2-43.3.9.Full.Release.zip)
