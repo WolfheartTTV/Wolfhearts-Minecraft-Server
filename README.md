@@ -12,14 +12,14 @@ Will progressively update modpack to be more challenging.
 Modpack will be updated inconsistantly, all client mods must be updated by client.
 
 For Standard Launcher:
-Install latest version of Forge 1.19.2 - https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html
+Install latest version of Forge 1.20.1 - https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html
 Run as admin and install client, click done when prompt is available.
 Download the zip file and unzip for "mods" folder.
 Press Win+r, type "%appdata%", open ".minecraft" and paste the unzipped mods folder in the ".minecraft".
 Close everything and run the launcher running the profile "Forge 1.19.2". 
 
 
-[Kaijuros RPG-1.19.2-43.3.9 (Full Release).zip](https://github.com/KaijuroYT/Kaijuros-Minecraft-Server/files/14924468/Kaijuros.RPG-1.19.2-43.3.9.Full.Release.zip)
+[Kaijuros RPG-Full Release- 1.20.1-47.2.23.zip](https://github.com/KaijuroYT/Kaijuros-Minecraft-Server/files/14949596/Kaijuros.RPG-Full.Release-.1.20.1-47.2.23.zip)
 
 
 You will have to update all your mods manually when the download arrows appear.
