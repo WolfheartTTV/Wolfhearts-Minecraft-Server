@@ -1,12 +1,12 @@
-# RPGSMP-Server
-A Full Release package to join my RPG Multiplayer Server.
+# Guncraft-Server
+A Full Release package to join my Guncraft Server.
 
 To join the server, you will first need Curseforge or the mod folder for the standard launcher.
 
 For CurseForge:
 Download and install Curseforge here: https://www.curseforge.com/download/app
 Click "Create a Profile" at the top right, then click "Import"
-Choose "Kaijuros RPG.zip" and then click "Open".
+Choose "KevoltasGuncraft.zip" and then click "Open".
 It will then download the zip package to CurseForge.
 All mod keybinds have been removed in game to let players choose their own keybinds for each mod.
 Will progressively update modpack to be more challenging.
@@ -20,7 +20,9 @@ Press Win+r, type "%appdata%", open ".minecraft" and paste the unzipped mods fol
 Close everything and run the launcher running the profile "Forge 1.19.2". 
 
 
-[Kaijuros RPG-1.20.1-47.2.23 (Full Release).zip](https://github.com/KaijuroYT/Kaijuros-Minecraft-Server/files/14971150/Kaijuros.RPG-1.20.1-47.2.23.Full.Release.zip)
+
+Kevoltas Guncraft-Full Release.zip](https://github.com/user-attachments/files/16125794/Kevoltas.Guncraft-Full.Release.zip)
+
 
 
 You will have to update all your mods manually when the download arrows appear.
