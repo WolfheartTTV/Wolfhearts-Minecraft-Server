@@ -1,5 +1,5 @@
-# Guncraft-Server
-A Full Release package to join my Guncraft Server.
+# Wolfhearts-Modded-Minecraft-Server
+A Full Release package to join my Ultimate Server.
 
 To join the server, you will first need Curseforge or the mod folder for the standard launcher.
 
