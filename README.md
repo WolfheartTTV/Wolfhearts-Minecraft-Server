@@ -21,7 +21,7 @@ Close everything and run the launcher running the profile "Forge 1.19.2".
 
 
 
-[Primal Winter Wasteland-Beta.zip](https://github.com/user-attachments/files/16715504/Primal.Winter.Wasteland-Beta.zip)
+[Primal Winter Wasteland.zip](https://github.com/user-attachments/files/16715768/Primal.Winter.Wasteland.zip)
 
 
 
