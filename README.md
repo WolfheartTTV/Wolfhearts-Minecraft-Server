@@ -22,7 +22,7 @@ Close everything and run the launcher running the profile "Forge 1.20.1".
 
 
 [Wolfhearts RPG-Full Release.zip](https://github.com/user-attachments/files/17140516/Wolfhearts.RPG-Full.Release.zip)
-
+(I would recommend using 8Gb of ram to play for a smoother experience.)
 
 
 You will have to update all your mods manually when the download arrows appear.
