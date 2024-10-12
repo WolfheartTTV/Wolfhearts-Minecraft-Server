@@ -1,9 +1,0 @@
-Known Issues Currently Working On.
-
-
-Occasional frame tear/freezing possibly do to server performance/client side optimization.
-Mod conflict between mods causing a java overflow, forcing the client to crash and make joining back impossible.
-Player model and armor clipping due to certain mods not being fully compatible with Epic Fights. (Mod Author issue.)
-Server occasionally crashing from java overflow errors. (Possibly my fault for incompatible mods.)
-Spawn protection making chests in spawn unusable for new players. (I shortened SP from 16 to 4, will test results.)
-Server reset upon crashing, occasionally corrupting server world and making a new world. (Probably my fault due to mods.)
