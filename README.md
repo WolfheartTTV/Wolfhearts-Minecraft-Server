@@ -1,4 +1,4 @@
-# Wolfhearts-Modded-Minecraft-Server
+# Hyokuris-Modded-Minecraft-Server
 A Full Release package to join my RPG Server.
 
 To join the server, you will first need Curseforge or the mod folder for the standard launcher.
@@ -6,7 +6,7 @@ To join the server, you will first need Curseforge or the mod folder for the sta
 For CurseForge:
 Download and install Curseforge here: https://www.curseforge.com/download/app
 Click "Create a Profile" at the top right, then click "Import"
-Choose "WolfheartsRPG-Full Release.zip" and then click "Open".
+Choose "HyokurissRPG-Full Release.zip" and then click "Open".
 It will then download the zip package to CurseForge.
 All mod keybinds have been removed in game to let players choose their own keybinds for each mod.
 Will progressively update modpack to be more challenging.
