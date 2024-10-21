@@ -6,7 +6,7 @@ To join the server, you will first need Curseforge or the mod folder for the sta
 For CurseForge:
 Download and install Curseforge here: https://www.curseforge.com/download/app
 Click "Create a Profile" at the top right, then click "Import"
-Choose "HyokurissRPG-Full Release.zip" and then click "Open".
+Choose "Hyokuris RPG-Full Release.zip" and then click "Open".
 It will then download the zip package to CurseForge.
 All mod keybinds have been removed in game to let players choose their own keybinds for each mod.
 Will progressively update modpack to be more challenging.
@@ -21,7 +21,7 @@ Close everything and run the launcher running the profile "Forge 1.20.1".
 
 
 
-[Wolfhearts RPG-Full Release.zip](https://github.com/user-attachments/files/17402502/Wolfhearts.RPG-Full.Release.zip)
+[Hyokuris RPG-Full Release.zip](https://github.com/user-attachments/files/17466036/Hyokuris.RPG-Full.Release.zip)
 (I would recommend using 8Gb of ram to play for a smoother experience. To add more ram on CurseForge, click Play ->
 Installations -> "..." -> MORE OPTIONS -> RESET -> change the -Xmx2G into -Xmx8G then save. You will have to do this everytime.)
 
